@@ -1,4 +1,4 @@
-import new1+2
+import new1
 """
 import httplib
 
